@@ -28,7 +28,8 @@
 ## 🛠️ Tech Stack  
 
 - **Frontend**: Java, XML  
-- **Tools**: Android Studio  
+- **Tools**: Android Studio
+- **Target SDK**: 24+  
 
 ---
 
