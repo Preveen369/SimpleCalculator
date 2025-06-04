@@ -54,10 +54,10 @@ SimpleCalculator/
 
 ## 📲 Installation & Setup
 
-### Prerequisites
+### 📋 Prerequisites
 - Android Studio installed
 
-### Steps
+### 🧑‍💻 Steps to Run
 1. **Clone the repository**
    ```sh
    git clone https://github.com/Preveen369/SimpleCalculator.git
