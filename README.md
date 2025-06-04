@@ -1,11 +1,11 @@
-# 🧮 Simple-Calculator
+# 🧮 Simple-Calculator App
 
 ![Platform](https://img.shields.io/badge/Platform-Android-blue.svg)
 ![Language](https://img.shields.io/badge/Language-Java-yellow.svg)
 ![UI](https://img.shields.io/badge/UI-XML-green.svg)
 ![License](https://img.shields.io/badge/License-MIT-lightgrey.svg)
 
-**Simple-Calculator** is an Android-based mobile application designed to provide a straightforward and efficient tool for performing basic arithmetic calculations. With a clean, user-friendly interface and a minimalistic design, this app offers a seamless experience for users who need quick calculations on the go, making it an ideal choice for students, professionals, and anyone in need of a reliable calculator.
+**Simple-Calculator App** is an Android-based mobile application designed to provide a straightforward and efficient tool for performing basic arithmetic calculations. With a clean, user-friendly interface and a minimalistic design, this app offers a seamless experience for users who need quick calculations on the go, making it an ideal choice for students, professionals, and anyone in need of a reliable calculator.
 
 ---
 
